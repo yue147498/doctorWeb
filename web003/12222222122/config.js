@@ -3,9 +3,9 @@ window.WEB003_CONFIG = {
     "12222222122": {
       username: "12222222122",
       password: "123456",
-      display_name: "王中原",
+      display_name: "张三",
       profile: {
-        姓名: "王中原",
+        姓名: "张三",
         性别: "男",
         执业注册状态: "在册",
         出生日期: "2026-09-25",
